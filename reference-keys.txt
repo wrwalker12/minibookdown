@@ -1,5 +1,5 @@
+first-chapter-title
 chapter-title
-chapter-title-1
 section-heading
 another-chapter-title
 another-section-heading
