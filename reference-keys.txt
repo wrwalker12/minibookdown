@@ -1,5 +1,5 @@
 create-your-open-textbook
 chapter-title
 section-2.1
-chapter-2
-section-2.1-1
+another-chapter-title
+section-3.1
