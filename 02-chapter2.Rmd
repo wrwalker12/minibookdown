@@ -3,6 +3,6 @@
 
 Here is some text for the introductory paragraph for chapter 2.
 
-## Section 1
+## Section 2.1
 
 Here is some more text.
