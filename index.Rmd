@@ -5,9 +5,3 @@ site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
-
-
-# What goes here?
-
-Hello
-
