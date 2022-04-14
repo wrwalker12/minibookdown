@@ -2,4 +2,4 @@ chapter-title
 chapter-title-1
 section-heading
 another-chapter-title
-section-3.1
+another-section-heading
