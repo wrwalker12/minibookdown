@@ -1,5 +1,5 @@
 chapter-title
 chapter-title-1
-section-2.1
+section-heading
 another-chapter-title
 section-3.1
