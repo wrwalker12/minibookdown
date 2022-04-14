@@ -1,5 +1,4 @@
-what-goes-here
 chapter-1
-section-1
+section-1.1
 chapter-2
-section-1-1
+section-1
