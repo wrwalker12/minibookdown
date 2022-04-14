@@ -1,8 +1,8 @@
 
 # Another Chapter Title
 
-Here is some text for the introductory paragraph for chapter 2.
+Here is some text for the introductory paragraph for another chapter.
 
-## Section 3.1
+## Another section heading
 
 Here is some more text.
