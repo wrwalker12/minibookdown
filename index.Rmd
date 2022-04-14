@@ -6,6 +6,6 @@ documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
+# Chapter Title
 
-Hello!!
+Hello, here we go.
